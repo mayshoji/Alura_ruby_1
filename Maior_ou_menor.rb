@@ -81,4 +81,6 @@ for tentativa in 1..limite_de_tentativas
 	end	
 end
 
+puts "Você ganhou #{pontos_ate_agora} pontos."
+
 
